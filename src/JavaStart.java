@@ -8,7 +8,7 @@ public class JavaStart {
         String name = scanner.nextLine();
         name = name.trim();
 
-        //System.out.print("Возраст: ");
+        ///System.out.print("Возраст: ");
         //String ageString = scanner.nextLine();
         //ageString = ageString.trim();
         //int age = Integer.parseInt(ageString);
